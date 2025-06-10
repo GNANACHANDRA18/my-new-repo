@@ -127,3 +127,5 @@ console.log("DO WHILE LOOP EXAMPLE");
             i++;
            // console.log(i);
         }while(i<10);
+        console.log("for an integer");
+        
